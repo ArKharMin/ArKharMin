@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ArKharMin/ArKharMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Portfolio | Full Stack Developer
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Frontend Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,react,ts,tailwind,bootstrap,jquery,js,html,css" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+### **Backend Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,spring,express,php,java,python" />
+</div>
+
+### **Database & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,aws,git,github" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</div>
+
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)
+
+</div>
