@@ -72,10 +72,6 @@
   <img src="https://img.shields.io/github/stars/ArkharMin?color=yellow&label=Total%20Stars&style=flat-square" alt="Total Stars" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkharMin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&langs_count=8&exclude_repo=github-readme-stats,ArkharMin.github.io&animate=true" alt="Top Languages" />
-</p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&reversal=true)
 
 </div>
