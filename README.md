@@ -32,11 +32,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkharMin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArkharMin&theme=radical&hide_border=true&background=0d1117&ring=22D3EE&fire=22D3EE&currStreakNum=ffffff&currStreakLabel=22D3EE" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=ArkharMin&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ## 🌟 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArkharMin&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=22D3EE&line=22D3EE&point=FFFFFF" alt="Activity Graph" width="100%" />
@@ -55,30 +50,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Web Development
-<p align="center">
-  <a href="https://github.com/ArkharMin/awesome-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=awesome-project&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/ArkharMin/web-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=web-app&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-### 🔧 Tools & Libraries
-<p align="center">
-  <a href="https://github.com/ArkharMin/cool-library">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=cool-library&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/ArkharMin/dev-tools">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=dev-tools&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/ArkharMin" target="_blank">
@@ -87,10 +58,7 @@
   <a href="https://linkedin.com/in/arkharmin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/arkharmin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:arkharmin@example.com" target="_blank">
+  <a href="mailto:arkharmin.developer@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
