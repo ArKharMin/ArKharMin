@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArkharMin&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&custom_title=Coding%20Activity&langs_count=6&layout=compact&animate=true" alt="Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkharMin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&langs_count=8&exclude_repo=github-readme-stats,ArkharMin.github.io&animate=true" alt="Top Languages" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&reversal=true)
