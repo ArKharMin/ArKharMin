@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkharMin/ArkharMin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArkharMin&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&custom_title=Coding%20Activity&langs_count=6&layout=compact&animate=true" alt="Coding Stats" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&reversal=true)
