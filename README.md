@@ -1,37 +1,113 @@
 <div align="center">
-
-# 👨‍💻 Portfolio | Full Stack Developer
-
-## 🚀 Technical Skills
-
-### **Frontend Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,react,ts,tailwind,bootstrap,jquery,js,html,css" />
-</div>
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ArkharMin&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=55&descSize=25)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Let's+build+something+amazing+🚀" alt="Typing SVG" />
+</p>
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,react,ts,tailwind,bootstrap,jquery,js,html,css" />
 </p>
 
 ### **Backend Development**
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,spring,express,php,java,python" />
-</div>
+</p>
 
 ### **Database & DevOps**
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,aws,git,github" />
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
-</div>
+## 📊 GitHub Analytics
 
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArkharMin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff" alt="ArkharMin's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkharMin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArkharMin&theme=radical&hide_border=true&background=0d1117&ring=22D3EE&fire=22D3EE&currStreakNum=ffffff&currStreakLabel=22D3EE" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=ArkharMin&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+## 🌟 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArkharMin&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=22D3EE&line=22D3EE&point=FFFFFF" alt="Activity Graph" width="100%" />
+</p>
+
+## 📈 Contribution Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArkharMin&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArkharMin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArkharMin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArkharMin&theme=radical&utcOffset=8" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web Development
+<p align="center">
+  <a href="https://github.com/ArkharMin/awesome-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=awesome-project&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/ArkharMin/web-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=web-app&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+### 🔧 Tools & Libraries
+<p align="center">
+  <a href="https://github.com/ArkharMin/cool-library">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=cool-library&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/ArkharMin/dev-tools">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkharMin&repo=dev-tools&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/ArkharMin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/arkharmin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/arkharmin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:arkharmin@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## 🎯 GitHub Metrics
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArkharMin&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ArkharMin?color=green&label=Followers&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ArkharMin?color=yellow&label=Total%20Stars&style=flat-square" alt="Total Stars" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArkharMin/ArkharMin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&reversal=true)
 
 </div>
